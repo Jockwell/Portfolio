@@ -10,4 +10,5 @@ Feel free to navigate through the repository using the provided sections. If you
 I value collaboration and networking. If you have any questions, suggestions, or just want to connect, don't hesitate to reach out:
 
 LinkedIn: (https://www.linkedin.com/in/josh-ockwell-page/)
+
 Thank you for visiting my portfolio repository! I look forward to connecting with you.
