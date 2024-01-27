@@ -15,3 +15,5 @@ UniBuddy is equipped with answers to the following questions:
 * What clubs does the university offer?
 * Which courses should I take?
 * Who is my student mentor?
+## Portfolio Details
+For more information about this project please find uni_buddy.png. It provides detailed project guidelines.
