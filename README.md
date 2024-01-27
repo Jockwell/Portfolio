@@ -6,7 +6,7 @@ Welcome to my portfolio repository! This GitHub repository serves as a showcase 
 ## How to Use
 Feel free to navigate through the repository using the provided sections. If you're interested in a specific project, each project directory contains a README file with detailed information on its purpose, implementation, and outcomes.
 
-# Connect with Me
+## Connect with Me
 I value collaboration and networking. If you have any questions, suggestions, or just want to connect, don't hesitate to reach out:
 
 LinkedIn: (https://www.linkedin.com/in/josh-ockwell-page/)
