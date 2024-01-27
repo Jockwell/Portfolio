@@ -16,4 +16,4 @@ UniBuddy is equipped with answers to the following questions:
 * Which courses should I take?
 * Who is my student mentor?
 ## Portfolio Details
-For more information about this project please find uni_buddy.png. It provides detailed project guidelines.
+For more information about this project please find uni_buddy.png in this folder. It provides detailed project guidelines.
