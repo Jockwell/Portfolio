@@ -13,3 +13,5 @@ Welcome to SafeBank, a simple banking app. This Python script allows users to pe
 The script generates a random current account balance at the beginning.
 You can transfer funds to your savings account and perform other operations securely using your PIN.
 
+## Portfolio Details
+For more information please refer to the attached safe_bank.png file. It provides detailed project guidelines.
